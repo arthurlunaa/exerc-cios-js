@@ -86,4 +86,5 @@
 //for (let i = string.length - 1; i >= 0; i--) {
 //   reverte += string[i]
  //  console.log(reverte);
+ console.log()
 //}
